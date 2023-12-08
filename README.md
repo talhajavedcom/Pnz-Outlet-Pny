@@ -11,7 +11,7 @@ Pnz Outlet is a Full Stack MERN (MongoDB, Express.js, React.js, Node.js) E-Comme
 
 ### Website
 
-[Click to visit website](https://pnzoutlet.talhajaved.com)
+[Click to visit website https://pnzoutlet.talhajaved.com ](https://pnzoutlet.talhajaved.com)
 
 ### Video
 
