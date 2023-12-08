@@ -9,9 +9,9 @@
 
 Pnz Outlet is a Full Stack MERN (MongoDB, Express.js, React.js, Node.js) E-Commerce Store. This project demonstrates a complete implementation of a web application, featuring both front-end and back-end components.
 
-### Website
+### Click to visit website 
 
-[Click to visit website https://pnzoutlet.talhajaved.com ](https://pnzoutlet.talhajaved.com)
+[https://pnzoutlet.talhajaved.com ](https://pnzoutlet.talhajaved.com)
 
 ### Video
 
